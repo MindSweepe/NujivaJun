@@ -26,9 +26,9 @@ Stutututu
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/NujivaJun
+- GitHub: https://github.com/MindSweepe
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NujivaJun&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MindSweepe&show_icons=true&theme=tokyonight)
 
 
