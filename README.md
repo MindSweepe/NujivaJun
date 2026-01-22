@@ -1,4 +1,5 @@
 <img width="600" height="200" alt="Image" src="https://github.com/user-attachments/assets/028a09bd-abf7-40df-8a1b-9608dbefce60" />
+
 # NujivaJun
 Stutututu
 # Hi, I'm Nujiva 👋
