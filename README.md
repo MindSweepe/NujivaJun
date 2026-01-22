@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # NujivaJun
 Stutututu
 # Hi, I'm Nujiva 👋
