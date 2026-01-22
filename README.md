@@ -1,4 +1,4 @@
-![Banner](<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/bce75583-518f-4c68-912e-b64d1a8685f1" />)
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/bce75583-518f-4c68-912e-b64d1a8685f1" />
 # NujivaJun
 Stutututu
 # Hi, I'm Nujiva 👋
